@@ -83,3 +83,53 @@
 # print(colors is clone)
 
 
+# numbers = []
+# count = int(input('Enter count '))
+
+# for i in range(count):
+#     numbers.append(int(input('Enter number ')))
+
+# numb = int(input('Enter ind number '))
+# print(numbers.count(numb))
+
+# numbers = input('Enter number of space ').split(' ')
+# numb = input('Enter ind number ')
+# print(numbers.count(numb))
+
+
+# numbers = input('Enter number of space ').split(' ')
+# numbers = [int(item) for item in numbers]
+# print(sum(numbers))
+# print(sum(numbers)/len(numbers))
+
+# 24+35
+# reg = input('Example [21+2] > ')
+
+# if reg.find('+') != -1:
+#     numbers = reg.split('+')
+#     numbers = [int(number) for number in numbers]
+#     print(f'Result :: {numbers[0]+numbers[1]}')
+
+# import random
+# minus = 0
+# plus = 0
+# zero = 0
+
+# numbers = [random.randint(-10,10) for i in range(10)]
+# min = min(numbers)
+# max = max(numbers)
+
+# print(numbers)
+
+# for number in numbers:
+#     if number > 0:
+#         plus+=1
+#     elif number < 0:
+#         minus+=1
+#     elif number == 0:
+#         zero+=1
+# print('Max --> ',max)
+# print('min --> ',min)
+# print('minus --> ',minus)
+# print('plus --> ',plus)
+# print('zero --> ',zero)
