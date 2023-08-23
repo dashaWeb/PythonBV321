@@ -1,0 +1,1 @@
+{"name": "Stas1", "lastname": "Bondar", "rating": 11.8, "group": "PD322", "birthdate": "13.11.06"}
